@@ -20,7 +20,7 @@ function random_password($lower, $upper, $numbers, $special_characters){
     return str_shuffle($random_password);
 }
 
-echo random_password(3, 2, 3, 2);
+
 
 
 
